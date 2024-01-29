@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="final_prj" type="final_prj.py" name="final_prj" output="screen">
+    </node>
+</launch>
